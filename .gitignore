@@ -1,0 +1,10 @@
+venv
+*.pyc
+*.egg-info
+build
+dist
+.task
+.pytest_cache
+.checks
+.coverage
+.DS_Store
